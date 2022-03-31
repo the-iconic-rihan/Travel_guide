@@ -1,3 +1,8 @@
+# Dependencies 
+The library "Material ui" of reactjs for frontend design.
+1. The install things are @material-ui/core, icons, labs
+2. The RapidApi's is used to gather and collect real time data . The Api's used are react-google-map/api, react-google-map.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
